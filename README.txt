@@ -1,0 +1,2 @@
+Hi there! This project appears as my learning platform for learning how to  make a telegram bots using such tools as aiogram,
+ bot dispatcher/executor, and introduction to APIs and async functions with asyncio.
