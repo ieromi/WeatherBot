@@ -3,7 +3,7 @@ from weather import weather_report
 from datetime import datetime
 import asyncio
 
-bot = Bot(token='6656050754:AAGbQTRSF4elhTM_s63UAyedZ3R4nxeFlLM')
+bot = Bot(token='token')
 dp = Dispatcher(bot)
 
 
