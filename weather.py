@@ -36,25 +36,25 @@ def weather_report():
                 break
 
         if datalist[5 or 11 or 17 or 23 or 29] == '04d' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '04n' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '09d' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '09n' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '10d' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '10n' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '11d' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '11n' in datalist:
-            reportcomment = 'Сегодня возможен дождь, прихвати зонтик на всякий.'
+            reportcomment = 'Сегодня возможен дождь, прихвати зонт.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '13d' in datalist:
-            reportcomment = 'Сегодня, возможно, будет снежок.'
+            reportcomment = 'Сегодня, возможно, будет снег.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '13n' in datalist:
-            reportcomment = 'Сегодня, возможно, будет снежок.'
+            reportcomment = 'Сегодня, возможно, будет снег.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '50d' in datalist:
             reportcomment = 'Возможно, будет туман. Будь осторожнее.'
         elif datalist[5 or 11 or 17 or 23 or 29] == '50n' in datalist:
